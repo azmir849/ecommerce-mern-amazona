@@ -36,6 +36,18 @@ const data = {
             numReviews: 8,
             description: 'high quality shirt'
         },
+        {
+            name: 'Adida Fit Pant',
+            slug: 'adidas-fit-pant',
+            category: 'Pants',
+            image: '/images/p4.jpg',
+            price: 540,
+            countInStock: 5,
+            brand: 'Adidas',
+            rating: 4.5,
+            numReviews: 4,
+            description: 'high quality pant'
+        },
     ],
 }
 
